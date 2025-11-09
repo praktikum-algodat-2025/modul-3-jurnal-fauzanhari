@@ -1,0 +1,124 @@
+
+        nbaLeague.addTeam("Boston Celtics", 82, 64, 18, 9887, 3657, 2201);
+        nbaLeague.tail.players.addPlayer("Jayson Tatum", 0, 11933, 1851, 3862, 513);
+        nbaLeague.tail.players.addPlayer("Jaylen Brown", 7, 9809, 1492, 2901, 558);
+        nbaLeague.tail.players.addPlayer("Kristaps Porzingis", 8, 8676, 777, 3614, 452);
+        nbaLeague.tail.players.addPlayer("Derrick White", 9, 5635, 2221, 1819, 481);
+        nbaLeague.tail.players.addPlayer("Jrue Holiday", 4, 14972, 6088, 3892, 975);
+        nbaLeague.tail.players.addPlayer("Al Horford", 42, 14613, 3629, 8694, 1078);
+        nbaLeague.tail.players.addPlayer("Payton Pritchard", 11, 1827, 461, 510, 258);
+        nbaLeague.tail.players.addPlayer("Sam Hauser", 30, 1152, 151, 461, 203);
+        nbaLeague.tail.players.addPlayer("Luke Kornet", 40, 1269, 237, 792, 230);
+        nbaLeague.tail.players.addPlayer("Xavier Tillman", 26, 1238, 259, 874, 218);
+
+        nbaLeague.addTeam("Golden State Warriors", 82, 46, 36, 9660, 3845, 2386);
+        nbaLeague.tail.players.addPlayer("Stephen Curry", 30, 24857, 5132, 6389, 956);
+        nbaLeague.tail.players.addPlayer("Klay Thompson", 11, 15372, 1856, 3098, 793);
+        nbaLeague.tail.players.addPlayer("Draymond Green", 23, 7476, 5493, 6089, 813);
+        nbaLeague.tail.players.addPlayer("Andrew Wiggins", 22, 12903, 1782, 3169, 706);
+        nbaLeague.tail.players.addPlayer("Jonathan Kuminga", 0, 2411, 417, 1076, 208);
+        nbaLeague.tail.players.addPlayer("Brandin Podziemski", 2, 703, 278, 429, 74);
+        nbaLeague.tail.players.addPlayer("Trayce Jackson-Davis", 32, 541, 79, 390, 68);
+        nbaLeague.tail.players.addPlayer("Moses Moody", 4, 1374, 255, 598, 204);
+        nbaLeague.tail.players.addPlayer("Kevon Looney", 5, 2928, 977, 3350, 523);
+        nbaLeague.tail.players.addPlayer("Gary Payton II", 1, 1335, 336, 736, 241);
+
+        nbaLeague.addTeam("Los Angeles Lakers", 82, 47, 35, 9679, 3534, 2328);
+        nbaLeague.tail.players.addPlayer("LeBron James", 23, 40147, 11059, 11099, 1500);
+        nbaLeague.tail.players.addPlayer("Anthony Davis", 3, 17595, 2697, 8101, 706);
+        nbaLeague.tail.players.addPlayer("Austin Reaves", 15, 2191, 597, 577, 207);
+        nbaLeague.tail.players.addPlayer("Rui Hachimura", 28, 3358, 497, 1492, 281);
+        nbaLeague.tail.players.addPlayer("D'Angelo Russell", 1, 10731, 3362, 2038, 591);
+        nbaLeague.tail.players.addPlayer("Jarred Vanderbilt", 2, 2154, 461, 2225, 321);
+        nbaLeague.tail.players.addPlayer("Gabe Vincent", 7, 2374, 768, 563, 319);
+        nbaLeague.tail.players.addPlayer("Max Christie", 10, 326, 68, 176, 106);
+        nbaLeague.tail.players.addPlayer("Jaxson Hayes", 11, 2399, 213, 1297, 319);
+        nbaLeague.tail.players.addPlayer("Christian Wood", 35, 5760, 681, 2901, 411);
+
+        // 3 tim
+
+        nbaLeague.addTeam("Denver Nuggets", 82, 57, 25, 9420, 3649, 2402);
+        nbaLeague.tail.players.addPlayer("Nikola Jokic", 15, 14798, 4774, 7490, 677);
+        nbaLeague.tail.players.addPlayer("Jamal Murray", 27, 9229, 2351, 1999, 491);
+        nbaLeague.tail.players.addPlayer("Michael Porter Jr.", 1, 3816, 372, 1493, 243);
+        nbaLeague.tail.players.addPlayer("Aaron Gordon", 50, 8913, 1943, 4293, 672);
+        nbaLeague.tail.players.addPlayer("Kentavious Caldwell-Pope", 5, 8769, 1378, 2404, 775);
+        nbaLeague.tail.players.addPlayer("Christian Braun", 0, 937, 214, 472, 158);
+        nbaLeague.tail.players.addPlayer("Peyton Watson", 8, 463, 76, 226, 120);
+        nbaLeague.tail.players.addPlayer("Zeke Nnaji", 22, 915, 102, 513, 184);
+        nbaLeague.tail.players.addPlayer("Reggie Jackson", 7, 10714, 3298, 2131, 853);
+        nbaLeague.tail.players.addPlayer("DeAndre Jordan", 6, 8993, 770, 9771, 1045);
+
+        nbaLeague.addTeam("Oklahoma City Thunder", 82, 57, 25, 9845, 3444, 2222);
+        nbaLeague.tail.players.addPlayer("Shai Gilgeous-Alexander", 2, 8617, 1812, 1947, 388);
+        nbaLeague.tail.players.addPlayer("Chet Holmgren", 7, 1359, 197, 649, 82);
+        nbaLeague.tail.players.addPlayer("Jalen Williams", 8, 2035, 483, 655, 145);
+        nbaLeague.tail.players.addPlayer("Josh Giddey", 3, 2432, 1173, 1281, 210);
+        nbaLeague.tail.players.addPlayer("Luguentz Dort", 5, 3470, 482, 1118, 281);
+        nbaLeague.tail.players.addPlayer("Cason Wallace", 22, 558, 122, 187, 82);
+        nbaLeague.tail.players.addPlayer("Isaiah Joe", 11, 1404, 219, 401, 202);
+        nbaLeague.tail.players.addPlayer("Jaylin Williams", 6, 730, 244, 715, 117);
+        nbaLeague.tail.players.addPlayer("Gordon Hayward", 33, 12071, 3037, 3624, 846);
+        nbaLeague.tail.players.addPlayer("Aaron Wiggins", 21, 1092, 198, 476, 200);   
+
+        // 5 tim
+
+        nbaLeague.addTeam("Milwaukee Bucks", 82, 49, 33, 9760, 3640, 2173);
+        nbaLeague.tail.players.addPlayer("Giannis Antetokounmpo", 34, 18596, 3753, 7837, 792);
+        nbaLeague.tail.players.addPlayer("Damian Lillard", 0, 21102, 5451, 3450, 842);
+        nbaLeague.tail.players.addPlayer("Khris Middleton", 22, 13735, 2969, 3959, 747);
+        nbaLeague.tail.players.addPlayer("Brook Lopez", 11, 15509, 1279, 5323, 1018);
+        nbaLeague.tail.players.addPlayer("Bobby Portis", 9, 7806, 868, 4423, 584);
+        nbaLeague.tail.players.addPlayer("Pat Connaughton", 24, 3218, 770, 1899, 498);
+        nbaLeague.tail.players.addPlayer("Malik Beasley", 5, 5717, 831, 1515, 513);
+        nbaLeague.tail.players.addPlayer("Jae Crowder", 99, 7120, 1259, 3726, 841);
+        nbaLeague.tail.players.addPlayer("MarJon Beauchamp", 3, 626, 122, 287, 128);
+        nbaLeague.tail.players.addPlayer("Andre Jackson Jr.", 44, 140, 55, 92, 57);
+
+        nbaLeague.addTeam("Phoenix Suns", 82, 49, 33, 9448, 3616, 2222);
+        nbaLeague.tail.players.addPlayer("Devin Booker", 1, 15723, 3039, 2908, 621);
+        nbaLeague.tail.players.addPlayer("Kevin Durant", 35, 28920, 4390, 7558, 1061);
+        nbaLeague.tail.players.addPlayer("Bradley Beal", 3, 15998, 3218, 3086, 739);
+        nbaLeague.tail.players.addPlayer("Jusuf Nurkic", 20, 6110, 1162, 4591, 521);
+        nbaLeague.tail.players.addPlayer("Grayson Allen", 8, 3622, 692, 1021, 355);
+        nbaLeague.tail.players.addPlayer("Royce O'Neale", 0, 3131, 1475, 2589, 526);
+        nbaLeague.tail.players.addPlayer("Eric Gordon", 10, 13117, 2185, 2307, 886);
+        nbaLeague.tail.players.addPlayer("Drew Eubanks", 14, 1878, 252, 1373, 348);
+        nbaLeague.tail.players.addPlayer("Nassir Little", 25, 1221, 127, 597, 217);
+        nbaLeague.tail.players.addPlayer("Bol Bol", 11, 882, 105, 523, 154);
+
+        nbaLeague.addTeam("Dallas Mavericks", 82, 50, 32, 9668, 3501, 2107);
+        nbaLeague.tail.players.addPlayer("Luka Doncic", 77, 11470, 3317, 3487, 400);
+        nbaLeague.tail.players.addPlayer("Kyrie Irving", 11, 17523, 3968, 2697, 706);
+        nbaLeague.tail.players.addPlayer("P.J. Washington", 25, 4875, 874, 2197, 378);
+        nbaLeague.tail.players.addPlayer("Daniel Gafford", 21, 2378, 196, 1563, 319);
+        nbaLeague.tail.players.addPlayer("Dereck Lively II", 2, 721, 93, 565, 82);
+        nbaLeague.tail.players.addPlayer("Derrick Jones Jr.", 55, 2981, 375, 1512, 426);
+        nbaLeague.tail.players.addPlayer("Tim Hardaway Jr.", 10, 11843, 1493, 2459, 735);
+        nbaLeague.tail.players.addPlayer("Josh Green", 8, 1515, 283, 517, 201);
+        nbaLeague.tail.players.addPlayer("Maxi Kleber", 42, 3501, 545, 2342, 429);
+        nbaLeague.tail.players.addPlayer("Dante Exum", 0, 1696, 528, 518, 347);
+
+        nbaLeague.addTeam("Philadelphia 76ers", 82, 47, 35, 9413, 3526, 2041);
+        nbaLeague.tail.players.addPlayer("Joel Embiid", 21, 12971, 1699, 5219, 433);
+        nbaLeague.tail.players.addPlayer("Tyrese Maxey", 0, 5553, 1139, 873, 290);
+        nbaLeague.tail.players.addPlayer("Tobias Harris", 12, 14316, 1993, 5029, 843);
+        nbaLeague.tail.players.addPlayer("Kelly Oubre Jr.", 9, 7027, 617, 2404, 557);
+        nbaLeague.tail.players.addPlayer("De'Anthony Melton", 8, 2942, 909, 1121, 344);
+        nbaLeague.tail.players.addPlayer("Nicolas Batum", 40, 10183, 3583, 5057, 995);
+        nbaLeague.tail.players.addPlayer("Paul Reed", 44, 1341, 178, 1073, 219);
+        nbaLeague.tail.players.addPlayer("Buddy Hield", 3, 11099, 1863, 2999, 632);
+        nbaLeague.tail.players.addPlayer("Kyle Lowry", 7, 14981, 6967, 4423, 1115);
+        nbaLeague.tail.players.addPlayer("Mo Bamba", 5, 2198, 199, 1715, 308);
+
+        nbaLeague.addTeam("Miami Heat", 82, 46, 36, 9028, 3480, 2115);
+        nbaLeague.tail.players.addPlayer("Jimmy Butler", 22, 14457, 3942, 4484, 755);
+        nbaLeague.tail.players.addPlayer("Bam Adebayo", 13, 7306, 1746, 4220, 482);
+        nbaLeague.tail.players.addPlayer("Tyler Herro", 14, 5275, 1102, 1448, 292);
+        nbaLeague.tail.players.addPlayer("Terry Rozier", 2, 8660, 2432, 2276, 580);
+        nbaLeague.tail.players.addPlayer("Jaime Jaquez Jr.", 11, 1097, 196, 287, 75);
+        nbaLeague.tail.players.addPlayer("Duncan Robinson", 55, 4124, 606, 1119, 368);
+        nbaLeague.tail.players.addPlayer("Caleb Martin", 16, 2529, 442, 1184, 271);
+        nbaLeague.tail.players.addPlayer("Nikola Jovic", 5, 410, 117, 235, 71);
+        nbaLeague.tail.players.addPlayer("Kevin Love", 42, 14755, 2038, 9152, 928);
+        nbaLeague.tail.players.addPlayer("Haywood Highsmith", 24, 650, 176, 401, 156);
